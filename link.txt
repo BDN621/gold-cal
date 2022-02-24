@@ -1,0 +1,1 @@
+https://metals-api.com/api/latest?access_key=8cep8n23gv6v27ji5845docolhd3wavjv8hb73ucsfie6opctulu4tmvjf2i&base=USD&symbols=XAU
